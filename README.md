@@ -1,1 +1,3 @@
 # CalculatorWith-JS
+
+![](demoOutput.png)
